@@ -10,3 +10,7 @@ The ks-form library contains a basic styling to extend from when building themes
 ```console
 $ bower install ks-form
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-form.svg)](http://badge.fury.io/bo/ks-form)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
